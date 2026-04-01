@@ -70,6 +70,7 @@ Result:
 * Feedforward Neural Network
 * CNN
 * CNN + LSTM
+* TabNet
 
 Insight:
 
