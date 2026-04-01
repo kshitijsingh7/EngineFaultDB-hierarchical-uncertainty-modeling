@@ -143,8 +143,8 @@ Class 4 → Ambiguous Region
 | Confident Accuracy  | **~85–96%** |
 | Ambiguous Detection | ~27–31%     |
 
-✔ Significant improvement in **reliable predictions**
-✔ Avoids incorrect classification in uncertain regions
+* Significant improvement in **reliable predictions**
+* Avoids incorrect classification in uncertain regions
 
 ---
 
