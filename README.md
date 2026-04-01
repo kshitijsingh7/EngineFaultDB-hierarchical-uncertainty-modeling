@@ -39,11 +39,11 @@ The core problem addressed:
 
 ## Key Contributions
 
-✔ Comprehensive comparison of ML and DL models
-✔ Identification of **feature overlap problem (Class 2 vs 3)**
-✔ Embedding-based representation analysis
-✔ **Uncertainty-aware hierarchical classification**
-✔ Introduction of **Trapezoidal Fuzzy Decision Boundary**
+* Comprehensive comparison of ML and DL models
+* Identification of **feature overlap problem (Class 2 vs 3)**
+* Embedding-based representation analysis
+* **Uncertainty-aware hierarchical classification**
+* Introduction of **Trapezoidal Fuzzy Decision Boundary**
 
 ---
 
